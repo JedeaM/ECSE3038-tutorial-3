@@ -28,3 +28,4 @@ def average_temp(devices):
         total += device["temp"]
 
     return total / len(devices)
+#task 0: setup
